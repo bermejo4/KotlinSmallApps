@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationGPS</string>
+    <string name="gps">GPS:</string>
+</resources>
